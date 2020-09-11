@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-
-url = "https://www.cnbc.com/quotes/?symbol=.DJI"
+#type website page link below
+url = ""
 
 # We use try-except in case the request was unsuccessful because of
 # wrong URL
